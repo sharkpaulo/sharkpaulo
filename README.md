@@ -1,7 +1,7 @@
 ### Olá sou Paulo Henrique 👋
 
 - 🔭 Hoje trabalho como Programador Jr com C#, VB.NET e ASP.NET
-- 🌱 Estudando C#, JAVASCRIPT, HTML, CSS
+- 🌱 Estudando ASP.NET, C#, JAVASCRIPT, HTML, CSS
 - 😄 Pronouns: ELE/DELE
 
 <div>
