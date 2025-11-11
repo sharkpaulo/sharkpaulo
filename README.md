@@ -1,6 +1,6 @@
 ### Olá sou Paulo Henrique 👋
 
-- 🔭 Hoje trabalho como Programador Jr com C#, VB.NET e ASP.NET
+- 🔭 Hoje trabalho como Programador com C#, VB.NET e ASP.NET
 - 🌱 Estudando POWER BI, SQL, PYTHON e EXCEL
 - 😄 Pronouns: ELE/DELE
 
